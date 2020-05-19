@@ -43,7 +43,7 @@ Loan Algorithms - [Folder](/Loan-Algorithms)
 ## Data Adapters
 ### **[Data-Adapters](/Data-Adapters)** are connections to third party data sources, processed through API gateways or other supported data transportation methods.
 
-**Provided by team. View [docs](http://100.22.11.249/docs/).**
+**Provided by team. View [docs](http://web2-elb-ntwrk-94efa0b9d1e72695.elb.us-west-2.amazonaws.com/docs/).**
 - FICO  
 - Plaid  
 
